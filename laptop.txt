@@ -1,4 +1,3 @@
 dell
 mac
 ms
-kkdevops
